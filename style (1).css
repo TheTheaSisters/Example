@@ -1,0 +1,27 @@
+span {
+  font-size: 48px;
+  color: navy;
+}
+
+body {
+  text-align: center;
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+h1 {
+  color: aquamarine;
+  font-size: 40px;
+  text-transform: initial
+}
+
+body {
+  background-color: rgb(255, 148, 202); 
+}
